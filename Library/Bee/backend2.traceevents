@@ -1,0 +1,333 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1755060380782713, "dur":36604, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1755060380819324, "dur":95, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1755060380819464, "dur":448, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1755060380820055, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/zeena/Downloads/New folder/Colour Match_Data/level1" }}
+,{ "pid":12345, "tid":0, "ts":1755060380820270, "dur":95, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/zeena/Downloads/New folder/Colour Match_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":0, "ts":1755060380820723, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1755060380820971, "dur":85, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1755060380821104, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1755060380821366, "dur":162, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1755060380821564, "dur":149, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1755060380821841, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1755060380822064, "dur":79, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1755060380822380, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":0, "ts":1755060380822622, "dur":75, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":0, "ts":1755060380823070, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/zeena/Downloads/New folder/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":0, "ts":1755060380819943, "dur":3327, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1755060380823275, "dur":7200554, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1755060388023832, "dur":526, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1755060388024631, "dur":2750, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1755060380821511, "dur":2783, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1755060380824295, "dur":3106, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1755060380827413, "dur":389, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":1, "ts":1755060380827402, "dur":402, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeena/Downloads/New folder/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1755060380831745, "dur":4794, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1755060380836618, "dur":642, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeena/Downloads/New folder/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1755060380837578, "dur":3166, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1755060380840816, "dur":57, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":1, "ts":1755060380840815, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeena/Downloads/New folder/Colour Match.exe" }}
+,{ "pid":12345, "tid":1, "ts":1755060380840892, "dur":2519, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match.exe" }}
+,{ "pid":12345, "tid":1, "ts":1755060380845264, "dur":10988, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":1, "ts":1755060380860973, "dur":111, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1755060380856417, "dur":4692, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1755060380861258, "dur":4368, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":1, "ts":1755060380865740, "dur":3858, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1755060380869681, "dur":7033, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1755060380876889, "dur":6274, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1755060380883252, "dur":7169, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/Unity.RenderPipelines.Universal.Config.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1755060380890522, "dur":9729, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1755060380900345, "dur":7428, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1755060380907857, "dur":9879, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1755060380917834, "dur":8777, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1755060380926706, "dur":7124, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1755060380933922, "dur":7705, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1755060380941720, "dur":9103, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1755060380950981, "dur":5432, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1755060380956487, "dur":5113, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/level1" }}
+,{ "pid":12345, "tid":1, "ts":1755060380961714, "dur":120, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1755060380961845, "dur":6606, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":1, "ts":1755060380968521, "dur":7055295, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1755060380820417, "dur":2997, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1755060380823426, "dur":793, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1755060380824220, "dur":525, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1755060380824746, "dur":2568, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1755060380827315, "dur":200, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeena/Downloads/New folder/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":2, "ts":1755060380831653, "dur":3993, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":2, "ts":1755060380835718, "dur":178, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeena/Downloads/New folder/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1755060380835929, "dur":3105, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1755060380839158, "dur":254, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeena/Downloads/New folder/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1755060380839463, "dur":4618, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1755060380845647, "dur":11363, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":2, "ts":1755060380857124, "dur":5090, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":2, "ts":1755060380862292, "dur":3864, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1755060380866266, "dur":3380, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":2, "ts":1755060380869724, "dur":6195, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1755060380876505, "dur":7249, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1755060380883841, "dur":8179, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1755060380892140, "dur":9762, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1755060380902001, "dur":8669, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1755060380910766, "dur":9629, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1755060380920509, "dur":9785, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1755060380930377, "dur":6229, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1755060380936731, "dur":9099, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1755060380983860, "dur":59, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1755060380945923, "dur":38021, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":2, "ts":1755060380984232, "dur":7039661, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1755060380820763, "dur":2839, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1755060380823614, "dur":887, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1755060380824501, "dur":2918, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1755060380827426, "dur":351, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeena/Downloads/New folder/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1755060380876217, "dur":2633, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1755060380879012, "dur":7881, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":3, "ts":1755060380887021, "dur":7344, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1755060380894455, "dur":9714, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1755060380904271, "dur":7106, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1755060380911474, "dur":7705, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1755060380919319, "dur":9915, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1755060380929320, "dur":6717, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1755060380936147, "dur":6978, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1755060380943277, "dur":3870, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1755060380947233, "dur":37294, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1755060380984582, "dur":7039342, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1755060380820224, "dur":3114, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1755060380823364, "dur":3808, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1755060380843294, "dur":1128, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":4, "ts":1755060380844431, "dur":202, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1755060380845043, "dur":189, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Playerfe6a7e9d-inputdata.json" }}
+,{ "pid":12345, "tid":4, "ts":1755060380844429, "dur":1075, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1755060380845930, "dur":83, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1755060380846580, "dur":318654, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1755060381168990, "dur":120, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1755060381168989, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeena/Downloads/New folder/Colour Match_Data/boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1755060381169132, "dur":1620, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1755060381170761, "dur":6853159, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1755060380820498, "dur":2928, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1755060380823434, "dur":578, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1755060380824013, "dur":720, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1755060380824734, "dur":2579, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1755060380827314, "dur":209, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeena/Downloads/New folder/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":5, "ts":1755060380845652, "dur":53, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1755060380842008, "dur":3715, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":5, "ts":1755060380849424, "dur":9370, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1755060380858880, "dur":4545, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":5, "ts":1755060380863519, "dur":4974, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":5, "ts":1755060380868587, "dur":5306, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1755060380874003, "dur":60, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1755060380874071, "dur":6388, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1755060380880543, "dur":8836, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/Unity.Collections.dll" }}
+,{ "pid":12345, "tid":5, "ts":1755060380889468, "dur":7978, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1755060380897537, "dur":9864, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1755060380907540, "dur":9132, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1755060380916851, "dur":9270, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1755060380932714, "dur":124, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1755060380926217, "dur":6635, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1755060380932959, "dur":10143, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1755060380943183, "dur":4528, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1755060380947807, "dur":38859, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":5, "ts":1755060380986903, "dur":7037007, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1755060380820550, "dur":2986, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1755060380823547, "dur":1421, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1755060380824969, "dur":2213, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1755060380827400, "dur":54, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755060380827548, "dur":115, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\zeena\\Desktop\\notes\\game mastery\\Colour Match\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755060380827665, "dur":78, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\zeena\\Desktop\\notes\\game mastery\\Colour Match\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755060380827744, "dur":484, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\zeena\\Desktop\\notes\\game mastery\\Colour Match\\Library\\Bee\\PlayerScriptAssemblies\\Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755060380828230, "dur":96, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\zeena\\Desktop\\notes\\game mastery\\Colour Match\\Library\\Bee\\PlayerScriptAssemblies\\Unity.RenderPipelines.Universal.Config.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755060380828328, "dur":652, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\zeena\\Desktop\\notes\\game mastery\\Colour Match\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755060380828982, "dur":162, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\zeena\\Desktop\\notes\\game mastery\\Colour Match\\Library\\Bee\\PlayerScriptAssemblies\\Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755060380829146, "dur":811, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\zeena\\Desktop\\notes\\game mastery\\Colour Match\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Collections.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755060380829959, "dur":504, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\zeena\\Desktop\\notes\\game mastery\\Colour Match\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755060380830466, "dur":252, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\zeena\\Desktop\\notes\\game mastery\\Colour Match\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755060380830721, "dur":688, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\zeena\\Desktop\\notes\\game mastery\\Colour Match\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755060380831412, "dur":278, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\zeena\\Desktop\\notes\\game mastery\\Colour Match\\Library\\Bee\\PlayerScriptAssemblies\\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755060380831692, "dur":1075, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\zeena\\Desktop\\notes\\game mastery\\Colour Match\\Library\\Bee\\PlayerScriptAssemblies\\Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755060380832770, "dur":527, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\zeena\\Desktop\\notes\\game mastery\\Colour Match\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Burst.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755060380833299, "dur":1343, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\zeena\\Desktop\\notes\\game mastery\\Colour Match\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755060380834646, "dur":244, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\zeena\\Desktop\\notes\\game mastery\\Colour Match\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755060380834892, "dur":241, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\zeena\\Desktop\\notes\\game mastery\\Colour Match\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755060380835135, "dur":473, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\zeena\\Desktop\\notes\\game mastery\\Colour Match\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755060380835610, "dur":259, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\zeena\\Desktop\\notes\\game mastery\\Colour Match\\Library\\Bee\\PlayerScriptAssemblies\\Unity.RenderPipelines.Universal.2D.Internal.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755060380835871, "dur":443, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\zeena\\Desktop\\notes\\game mastery\\Colour Match\\Library\\Bee\\PlayerScriptAssemblies\\Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755060380836362, "dur":642, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\zeena\\Desktop\\notes\\game mastery\\Colour Match\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755060380837007, "dur":261, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\zeena\\Desktop\\notes\\game mastery\\Colour Match\\Library\\Bee\\PlayerScriptAssemblies\\Unity.RenderPipeline.Universal.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755060380837270, "dur":767, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\zeena\\Desktop\\notes\\game mastery\\Colour Match\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755060380838039, "dur":1339, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\zeena\\Desktop\\notes\\game mastery\\Colour Match\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755060380839381, "dur":296, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\zeena\\Desktop\\notes\\game mastery\\Colour Match\\Library\\Bee\\PlayerScriptAssemblies\\Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755060380839679, "dur":764, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\zeena\\Desktop\\notes\\game mastery\\Colour Match\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":6, "ts":1755060380840900, "dur":59, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"ProjectSettings\\BurstAotSettings_StandaloneWindows.json" }}
+,{ "pid":12345, "tid":6, "ts":1755060380841125, "dur":378, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\zeena\\Desktop\\notes\\game mastery\\Colour Match\\Library\\PackageCache\\com.unity.burst@1.8.21\\.Runtime\\bcl.exe" }}
+,{ "pid":12345, "tid":6, "ts":1755060380827205, "dur":14300, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"GenerateNativePluginsForAssemblies Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinker" }}
+,{ "pid":12345, "tid":6, "ts":1755060380841630, "dur":153, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1755060380845766, "dur":7176202, "ph":"X", "name": "GenerateNativePluginsForAssemblies",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinker" }}
+,{ "pid":12345, "tid":7, "ts":1755060380821039, "dur":2585, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1755060380823636, "dur":646, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1755060380824283, "dur":3249, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1755060380827538, "dur":329, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeena/Downloads/New folder/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1755060380831594, "dur":2646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1755060380834283, "dur":156, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeena/Downloads/New folder/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1755060380834522, "dur":2114, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1755060380836693, "dur":480, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1755060380836691, "dur":485, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeena/Downloads/New folder/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1755060380837377, "dur":2864, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1755060380840317, "dur":130, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":7, "ts":1755060380840315, "dur":134, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeena/Downloads/New folder/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":7, "ts":1755060380856244, "dur":55, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1755060380840513, "dur":15839, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":7, "ts":1755060380856471, "dur":5735, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":7, "ts":1755060380862291, "dur":8109, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":7, "ts":1755060380870531, "dur":6750, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":7, "ts":1755060380877372, "dur":5652, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":7, "ts":1755060380883114, "dur":7935, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":7, "ts":1755060380891182, "dur":9914, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1755060380911934, "dur":50, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1755060380901196, "dur":10812, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1755060380921672, "dur":1101, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1755060380912219, "dur":10817, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1755060380923199, "dur":5639, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1755060380935803, "dur":205, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1755060380928910, "dur":7120, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1755060380936138, "dur":8702, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1755060380952051, "dur":80, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1755060380944908, "dur":7240, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1755060380952342, "dur":4035, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1755060380956441, "dur":10785, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/resources.assets" }}
+,{ "pid":12345, "tid":7, "ts":1755060380967277, "dur":7056542, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1755060380821692, "dur":2618, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1755060380824310, "dur":3232, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1755060380827542, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeena/Downloads/New folder/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1755060380876181, "dur":2555, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1755060380885439, "dur":96, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1755060380878878, "dur":6692, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":8, "ts":1755060380885685, "dur":7692, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":8, "ts":1755060380893445, "dur":11992, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1755060380914392, "dur":61, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1755060380905688, "dur":8826, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1755060380924129, "dur":56, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1755060380914748, "dur":9466, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1755060380924342, "dur":8733, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1755060380942033, "dur":53, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1755060380933241, "dur":8892, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1755060380942233, "dur":106, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1755060380942344, "dur":6331, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1755060380988436, "dur":203, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1755060380948744, "dur":39922, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1755060380988769, "dur":7035067, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1755060380821157, "dur":2482, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1755060380823648, "dur":628, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1755060380824277, "dur":2913, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1755060380827210, "dur":117, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1755060380828734, "dur":3279, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/app.info" }}
+,{ "pid":12345, "tid":9, "ts":1755060380832021, "dur":161, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":9, "ts":1755060380832018, "dur":165, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeena/Downloads/New folder/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":9, "ts":1755060380833403, "dur":3062, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":9, "ts":1755060380836505, "dur":147, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":9, "ts":1755060380836503, "dur":151, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeena/Downloads/New folder/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":9, "ts":1755060380837318, "dur":2159, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":9, "ts":1755060380839556, "dur":108, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":9, "ts":1755060380839554, "dur":112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeena/Downloads/New folder/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":9, "ts":1755060380840372, "dur":4112, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":9, "ts":1755060380845471, "dur":12417, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":9, "ts":1755060380857984, "dur":6145, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":9, "ts":1755060380871538, "dur":98, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1755060380864216, "dur":7482, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":9, "ts":1755060380871921, "dur":6368, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":9, "ts":1755060380885453, "dur":68, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1755060380878357, "dur":7189, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":9, "ts":1755060380885641, "dur":7722, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":9, "ts":1755060380893482, "dur":12558, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1755060380915685, "dur":66, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1755060380906208, "dur":9569, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1755060380915981, "dur":9532, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1755060380932127, "dur":697, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1755060380925674, "dur":7172, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1755060380932952, "dur":10589, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1755060380943662, "dur":7750, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1755060380951542, "dur":7088, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":9, "ts":1755060380958827, "dur":19496, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":9, "ts":1755060380978390, "dur":7045532, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1755060380821207, "dur":2596, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1755060380823812, "dur":965, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1755060380824778, "dur":2533, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1755060380827331, "dur":283, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":10, "ts":1755060380827312, "dur":303, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeena/Downloads/New folder/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":10, "ts":1755060380862235, "dur":2764, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":10, "ts":1755060380865088, "dur":3955, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":10, "ts":1755060380869168, "dur":3612, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":10, "ts":1755060380872925, "dur":5833, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":10, "ts":1755060380878915, "dur":7962, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":10, "ts":1755060380886968, "dur":7798, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":10, "ts":1755060380894847, "dur":10084, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1755060380905086, "dur":7392, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1755060380912607, "dur":74, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1755060380912713, "dur":6069, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1755060380918924, "dur":9436, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1755060380928493, "dur":5803, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1755060380941573, "dur":550, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1755060380934549, "dur":7591, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1755060380942262, "dur":139, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1755060380942407, "dur":6780, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1755060380949293, "dur":9065, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":10, "ts":1755060380958433, "dur":7387, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/level0" }}
+,{ "pid":12345, "tid":10, "ts":1755060380965897, "dur":7058108, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1755060380821805, "dur":2516, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1755060380824321, "dur":3198, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1755060380827547, "dur":437, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1755060380827532, "dur":454, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeena/Downloads/New folder/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1755060380831695, "dur":4714, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1755060380836483, "dur":221, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeena/Downloads/New folder/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1755060380837937, "dur":3000, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1755060380841046, "dur":158, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeena/Downloads/New folder/Colour Match_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":11, "ts":1755060380842418, "dur":7861, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":11, "ts":1755060380850401, "dur":7900, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":11, "ts":1755060380858471, "dur":5750, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":11, "ts":1755060380864301, "dur":4338, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":11, "ts":1755060380868768, "dur":4439, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll" }}
+,{ "pid":12345, "tid":11, "ts":1755060380873338, "dur":6362, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/Unity.RenderPipelines.Universal.2D.Internal.dll" }}
+,{ "pid":12345, "tid":11, "ts":1755060380879818, "dur":8702, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":11, "ts":1755060380888594, "dur":7794, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1755060380896513, "dur":11179, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1755060380907819, "dur":7457, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1755060380926082, "dur":212, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1755060380915370, "dur":10941, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1755060380927155, "dur":8145, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1755060380935381, "dur":9490, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1755060380944934, "dur":166, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":11, "ts":1755060380944932, "dur":169, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeena/Downloads/New folder/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":11, "ts":1755060380945143, "dur":82591, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":11, "ts":1755060381027836, "dur":6996059, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1755060380822299, "dur":2033, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1755060380824333, "dur":2865, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1755060380827216, "dur":127, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":12, "ts":1755060380827204, "dur":140, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeena/Downloads/New folder/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":12, "ts":1755060380828499, "dur":6095, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":12, "ts":1755060380834762, "dur":159, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1755060380834760, "dur":162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeena/Downloads/New folder/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1755060380834948, "dur":4222, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1755060380839252, "dur":170, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeena/Downloads/New folder/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":12, "ts":1755060380839431, "dur":113, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1755060380840626, "dur":5074, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":12, "ts":1755060380845790, "dur":53, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1755060380857202, "dur":101, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1755060380846599, "dur":10724, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":12, "ts":1755060380857467, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":12, "ts":1755060380857578, "dur":4916, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":12, "ts":1755060380862566, "dur":6851, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":12, "ts":1755060380869508, "dur":6355, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":12, "ts":1755060380875944, "dur":5050, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":12, "ts":1755060380881081, "dur":6677, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":12, "ts":1755060380887902, "dur":7281, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1755060380895332, "dur":10415, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1755060380905856, "dur":7255, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1755060380913205, "dur":6393, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1755060380919683, "dur":10584, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1755060380930438, "dur":8487, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1755060380939020, "dur":8455, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1755060380952093, "dur":65, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1755060380947595, "dur":4577, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":12, "ts":1755060380954872, "dur":248, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1755060380952448, "dur":2699, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":12, "ts":1755060380959304, "dur":6653, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zeena/Downloads/New folder/Colour Match_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":12, "ts":1755060380966079, "dur":7057753, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1755060388031342, "dur":1241, "ph":"X", "name": "ProfilerWriteOutput" }
+,
